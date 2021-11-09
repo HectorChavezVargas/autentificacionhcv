@@ -7,6 +7,6 @@ firebase.initializeApp({
   projectId: "fbautenhcv",
   storageBucket: "fbautenhcv.appspot.com",
   messagingSenderId: "713620515808",
-  appId: "1:713620515808:web:8b96535b227d5a5da35985",
-  measurementId: "G-KFWC1TWZXH"
+  appId: "1:713620515808:web:fffbd23f48305140a35985",
+  measurementId: "G-FFFGS32LH5"
 });
